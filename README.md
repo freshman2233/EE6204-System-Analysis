@@ -20,3 +20,6 @@ My Wechat: freshman2233
 
 This resource is for learning and communication only. It is strictly prohibited for commercial use. Please delete it within 24 hours.
 
+## 4.GitHub Sponsors
+
+If you like this project, please consider supporting us through GitHub Sponsors! Thank you for your support!

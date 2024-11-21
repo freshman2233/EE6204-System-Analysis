@@ -20,3 +20,6 @@ Email: freshmanfreshman0011@gmail.com
 
 此资源仅供学习和交流使用。严禁用于商业用途。请在24小时内删除。
 
+## 4.GitHub 赞助
+
+如果你喜欢这个项目，请考虑通过GitHub Sponsors赞助支持我们！感谢您的支持！
