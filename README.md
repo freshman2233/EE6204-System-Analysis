@@ -110,7 +110,7 @@ Stochastic process
 
 Queuing model
 
-Step 1 Wait in line
+1. Queue 
 
 2. Little's Law
 
