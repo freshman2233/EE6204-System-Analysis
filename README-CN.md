@@ -28,7 +28,7 @@ Email: freshmanfreshman0011@gmail.com
 
 线性规划  非线性规划
 
-1.线性规划 
+1 线性规划 
 
 1.1优化模型 
 
@@ -38,7 +38,7 @@ Email: freshmanfreshman0011@gmail.com
 
 
 
-2.线性规划 : 单纯形法 
+2 线性规划 : 单纯形法 
 
 2.1单纯形法 
 
@@ -52,7 +52,7 @@ Email: freshmanfreshman0011@gmail.com
 
 
 
-3.特殊类型的线性规划 
+3 特殊类型的线性规划 
 
 3.1.运输模型
 
@@ -62,7 +62,7 @@ Email: freshmanfreshman0011@gmail.com
 
 
 
-4.最优技巧 
+4 最优技巧 
 
 4.1.非线性规划
 
@@ -128,13 +128,13 @@ Email: freshmanfreshman0011@gmail.com
 
 决策分析
 
-1.确定性下的决策
+1 确定性下的决策
 
 1.1层次分析法
 
 
 
-2.风险下的决策
+2 风险下的决策
 
 2.1期望收益 
 
@@ -150,7 +150,7 @@ Email: freshmanfreshman0011@gmail.com
 
 
 
-3.不确定性下的决策
+3 不确定性下的决策
 
 3.1. 悲观标准（Maximin标准）
 

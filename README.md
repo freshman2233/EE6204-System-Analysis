@@ -24,11 +24,9 @@ This resource is for learning and communication only. It is strictly prohibited 
 
 If you like this project, please consider supporting us through GitHub Sponsors! Thank you for your support!
 
-## 5. Exam scope: All
-
 Linear programming Nonlinear programming
 
-1. Linear programming
+1 Linear programming
 
 1.1 Optimization model
 
@@ -38,7 +36,7 @@ Linear programming Nonlinear programming
 
 
 
-2. Linear programming: simplex method
+2 Linear programming: simplex method
 
 2.1 Simplex method
 
@@ -52,7 +50,7 @@ Linear programming Nonlinear programming
 
 
 
-3. Special types of linear programming
+3 Special types of linear programming
 
 3.1. Transportation model
 
@@ -62,7 +60,7 @@ Linear programming Nonlinear programming
 
 
 
-4. Optimal skills
+4 Optimal skills
 
 4.1. Nonlinear programming
 
@@ -96,11 +94,11 @@ Stochastic process
 
 5. Discrete time Markov chains
 
-6.CK equation
+6. CK equation
 
 7. Continuous time Markov chains
 
-8.CK equation
+8. CK equation
 
 9. Kolmogorov differential equation
 
@@ -116,11 +114,11 @@ Step 1 Wait in line
 
 2. Little's Law
 
-3.M/M/1 queue model
+3. M/M/1 queue model
 
-4.M/M/1/N queue model
+4. M/M/1/N queue model
 
-5.M/M/m queue model
+5. M/M/m queue model
 
 6. Batch arrival queue (Mb/M/1)
 
@@ -128,13 +126,13 @@ Step 1 Wait in line
 
 Decision analysis
 
-1. Decision making under certainty
+1 Decision under certainty
 
 1.1 Analytic Hierarchy Process
 
 
 
-2. Decision making under risk
+2 Decision making under risk
 
 2.1 Expected Return
 
@@ -150,7 +148,7 @@ Decision analysis
 
 
 
-3. Decision making under uncertainty
+3 Decision making under uncertainty
 
 3.1. Maximin Criteria
 
