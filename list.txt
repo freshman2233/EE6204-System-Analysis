@@ -1,0 +1,139 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 A07A-31F5
+D:.
+│  .gitattributes
+│  .gitignore
+│  LICENSE
+│  list.txt
+│  README-CN.md
+│  README.md
+│  
+├─1.Examination
+│      15-S2-Q1-v2.pdf
+│      15-S2-Q3.pdf
+│      15-S2-Q5.pdf
+│      17-S2-Q1.pdf
+│      17-S2-Q4.pdf
+│      17-S2-Q5.pdf
+│      18-S2-Q1.pdf
+│      18-S2-Q2-v3.pdf
+│      18-S2-Q3.pdf
+│      18-S2-Q4.pdf
+│      18-S2-Q5.pdf
+│      20-S2-Q3.pdf
+│      20-S2-Q4.pdf
+│      20-S2-Q5.pdf
+│      21-S1-Q1-v3.pdf
+│      21-S1-Q2-v5.pdf
+│      21-S1-Q3-v5.pdf
+│      21-S1-Q4-v6.pdf
+│      21-S1-Q5-v6.pdf
+│      22-S1-Q1-v8.pdf
+│      22-S1-Q2-v5.pdf
+│      22-s1-Q3.pdf
+│      22-s1-Q4-v2.pdf
+│      22-S1-Q5-v4.pdf
+│      23-S1-Q1-v3.pdf
+│      23-S1-Q2-v6.pdf
+│      23-S1-Q3-v7.pdf
+│      23-S1-Q4-v4.pdf
+│      23-S1-Q5-v2.pdf
+│      
+├─2.PPT Example
+│  ├─Part 1 WDW EE6204 LP NLP
+│  │      2.1Example-单纯形法-两阶段法.pdf
+│  │      
+│  ├─Part 2 随机过程和排队模型
+│  │  ├─Lecture 1
+│  │  │  │  Example3.1.pdf
+│  │  │  │  Example3.2.pdf
+│  │  │  │  Example3.3.pdf
+│  │  │  │  Example3.4.pdf
+│  │  │  │  Example5.1.pdf
+│  │  │  │  Example5.2.pdf
+│  │  │  │  Example5.3.pdf
+│  │  │  │  Example6.1.pdf
+│  │  │  │  Example6.2.pdf
+│  │  │  │  Example7.1.pdf
+│  │  │  │  Example9.1-v2.pdf
+│  │  │  │  Example9.1-v3.pdf
+│  │  │  │  Example9.1-v4.pdf
+│  │  │  │  Problem1.1.pdf
+│  │  │  │  Problem1.2.pdf
+│  │  │  │  Problem1.3-v2.pdf
+│  │  │  │  Problem1.4.pdf
+│  │  │  │  Problem1.5-v2.pdf
+│  │  │  │  Problem10.1.pdf
+│  │  │  │  Problem2.1.pdf
+│  │  │  │  Problem2.2.pdf
+│  │  │  │  Problem2.3.pdf
+│  │  │  │  Problem2.4-v2.pdf
+│  │  │  │  Problem4.1-v2.pdf
+│  │  │  │  Problem6.1.pdf
+│  │  │  │  Problem6.2-v2.pdf
+│  │  │  │  Problem6.3-v2.pdf
+│  │  │  │  Problem6.4.pdf
+│  │  │  │  Problem9.3-Valid.pdf
+│  │  │  │  Problem9.4-v2-Q.pdf
+│  │  │  │  Problem9.5-Q.pdf
+│  │  │  │  
+│  │  │  └─1.官方答案
+│  │  │          excercise.pdf
+│  │  │          
+│  │  ├─Lecture 2
+│  │  │      Example3.1.pdf
+│  │  │      Example3.2.pdf
+│  │  │      Example5.1-Q.pdf
+│  │  │      Example6.1.pdf
+│  │  │      Problem3.1.pdf
+│  │  │      Problem3.2.pdf
+│  │  │      Problem4.1-Q.pdf
+│  │  │      Problem4.2.pdf
+│  │  │      
+│  │  └─补充资料
+│  │          2个关于随机过程的例题-Q1-v2.pdf
+│  │          2个关于随机过程的例题-Q2.pdf
+│  │          
+│  └─Part 3 决策分析
+│          Example1-class-week13.pdf
+│          Example2-class-week13.pdf
+│          Lect1-Example 1 of AHP.pdf
+│          Lect1-Problem-V.pdf
+│          Lect2-Example1.pdf
+│          Lect2-Example2-v2.pdf
+│          Lect2-Example2.pdf
+│          Lect2-Example3.pdf
+│          Lect2-Example4.pdf
+│          Lect2-Example5.pdf
+│          Lect2-Example6.pdf
+│          Lect2-Example7.pdf
+│          Lect2-Example8.pdf
+│          Lect2-Example9.pdf
+│          Lect3-Example1.pdf
+│          Lect3-Example2.pdf
+│          
+├─3.Understand
+│      1.随机变量-几何-指数-泊松.pdf
+│      2.Prof Wang Answer 23-S1-Q2.pdf
+│      3.21-S1-Q3-ii-classification discussions and tree diagrams.pdf
+│      4.21-S1-Q3-ii-稳态求解失败.pdf
+│      5.闭环法优化，得到最优解.pdf
+│      6.Simplex注意事项-v2.pdf
+│      7.Simplex Dual + sensitive.pdf
+│      8.斐波那契单变量优化.pdf
+│      9.牛顿法 - 单变量优化.pdf
+│      9.牛顿法 - 多变量优化.pdf
+│      EE6204-热门考点分析.xlsx
+│      EE6204_appendix.pdf
+│      
+└─4.Resource
+    │  EE6204_OBTL (Abridge).pdf
+    │  
+    └─1.BOOKS
+        │  运筹学 第4版 (钱颂迪 《运筹学》教材编写组) (OCR).pdf
+        │  运筹学习题集+胡运权主编(OCR).pdf
+        │  运筹学解题指导_周华任(OCR).pdf
+        │  
+        └─1.猴博士MOOC
+                1.运筹学.pdf
+                

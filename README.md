@@ -1,30 +1,68 @@
 # EE6204-System Analysis
 
-## 1.Content 
+# 1.Introduction
 
-1.Reference answers to final examination questions
+**EE6204 - System Analysis** is a postgraduate course that explores essential optimization techniques and system modeling methods widely used in engineering, industry, and research. 
 
-2.PPT Example reference answer
+The course covers topics such as **Linear and Nonlinear Programming, Random Processes, Queuing Models, and Decision Analysis**, equipping students with the skills to analyze and optimize complex systems. Through theoretical learning and practical problem-solving, students will develop proficiency in methods like the **Simplex Algorithm, Lagrange Multipliers, Markov Chains, and Decision Trees**. 
 
-## 2.Find out a mistake
+By the end of the course, students will be able to formulate optimization models, analyze stochastic processes, evaluate queuing systems, and apply decision-making strategies under uncertainty. This knowledge is highly valuable for tackling real-world challenges in system optimization and resource management.
 
-As there is no standard answer, if you detect any error in the answer, it is due to my limited knowledge level. 
+### What You’ll Find Here:
 
-Please leave a message or send an email or some Wechat messages to me and I will update the version as soon as possible. 
+- **Personal Solutions to Past Exams** – Step-by-step solutions to previous exam questions to aid your understanding and preparation.
+- **Lecture PPT Example References** – Detailed walkthroughs of key examples and exercises presented in lecture slides.
+- **Analysis of Challenging Topics** – In-depth explanations of complex concepts to help you navigate difficult areas with ease.
 
-My Email: freshmanfreshman0011@gmail.com
+If you find this repository useful, please consider **starring⭐ it on GitHub** to show your support!
 
-My Wechat: freshman2233
+![modern-flat-design-concept-for-system-analysis-big-data-analysi-vector](./README.assets/modern-flat-design-concept-for-system-analysis-big-data-analysi-vector.jpg)
 
-## 3.Declare
+# 2.**Course Aims**
 
-This resource is for learning and communication only. It is strictly prohibited for commercial use. Please delete it within 24 hours.
+Optimization techniques are applicable in almost all fields of postgraduate study and wide spectrum of industry and societal applications. This course aims to equip post graduate students with popular and useful optimization techniques, such as Linear Programming, Nonlinear Programming, Random processes, Queuing modelling, and Decision Analysis. 
 
-## 4.GitHub Sponsors
+# 3.**Intended Learning Outcomes (ILO)**
 
-If you like this project, please consider supporting us through GitHub Sponsors! Thank you for your support!
+By the end of this course, the students should be able to understand specific theories for modelling, analysis and optimization of various practical and popular systems and processes. In particular, students would be able to:
 
-Linear programming Nonlinear programming
+1. Develop linear programming model from description of problems
+2. Solve linear programming problems using SIMPLEX method
+3. Examine the sensitivity of optimal solution due to change in parameters
+4. Develop and solve dual linear programming problems
+5. Solve special types of linear programming problems: transportation and assignment
+6. Solve unconstrained nonlinear programming problems using numerical methods
+7. Solve constrained nonlinear programming problems using Lagrange multiplier methods
+8. Model a stochastic process to a discrete time Markov chain
+9. Compute different aspects of a discrete time Markov chain: transition probability, sojourn time, steady state probability
+
+10. Model a stochastic process to a continuous time Markov chain
+11. Compute different aspects of a continuous time Markov chain: transition rate, sojourn time, steady state probability
+
+12. Study different queuing models: M/M/1, M/M/1/N, M/M/m, M*b* /M/1
+13. Compute different aspects of a queue: steady state probability, mean number of customers in the queue and system, mean waiting time in the queue and system
+
+14. Derive a decision under certainty: analytic hierarchy process2
+15. Derive a decision under risk: decision tree, utility function
+16. Derive a decision under uncertainty: criterion of pessimism, criterion of optimism, Hurwicz criterion, criterion of regret, Laplace criterion
+
+# 4.**Course Content**
+
+Topic 1 Linear, Dynamic and Integer Programming
+
+Topic 2 Optimization Techniques
+
+Topic 3. Random Processes
+
+Topic 4. Queuing Models
+
+Topic 5. Decision Analysis
+
+# 5.Content
+
+## English
+
+### Linear programming Nonlinear programming
 
 1 Linear programming
 
@@ -82,7 +120,7 @@ Linear programming Nonlinear programming
 
 
 
-Stochastic process
+### Stochastic process
 
 1. Geometric random variables
 
@@ -108,7 +146,7 @@ Stochastic process
 
 
 
-Queuing model
+### Queuing model
 
 1. Queue 
 
@@ -124,7 +162,7 @@ Queuing model
 
 
 
-Decision analysis
+### Decision analysis
 
 1 Decision under certainty
 
@@ -159,3 +197,211 @@ Decision analysis
 3.4. Regret Criteria (Savage Criteria)
 
 3.5. Laplace's criteria
+
+
+
+
+
+## Chinese
+
+### 线性规划  非线性规划
+
+1 线性规划 
+
+1.1优化模型 
+
+1.2线性规划(LP) 
+
+
+
+2 线性规划 : 单纯形法 
+
+2.1单纯形法 
+
+2.2对偶性 
+
+2.3灵敏度分析 
+
+2.4对偶性 和 灵敏度分析 
+
+
+
+3 特殊类型的线性规划 
+
+3.1.运输模型
+
+3.2.任务分配问题
+
+
+
+4 最优技巧 
+
+4.1.非线性规划
+
+4.2.单变量优化 
+
+4.3.多变量优化 
+
+4.3.1.梯度向量和Hessian矩阵
+
+4.3.2.最优性准则 
+
+4.3.3.牛顿法 
+
+4.3.4.具有等约束的多变量优化 
+
+4.3.4.1 拉格朗日乘数法 
+
+4.3.4.2 定理（充分条件）
+
+4.3.5.不等式约束下的优化 
+
+4.3.5.1 拉格朗日乘数法 
+
+4.3.5.2 Convex 函数
+
+4.3.5.3 K-T充分定理 
+
+4.3.5.4 灵敏度分析 B + ΔB
+
+### 随机过程
+
+1.几何随机变量
+
+2.指数随机变量
+
+3.随机过程
+
+4.泊松过程
+
+5.离散时间马尔可夫链
+
+5.1.定义
+
+5.2.马尔可夫性质
+
+5.3.状态i的逗留时间Ti
+
+5.4.转移概率
+
+5.5.转移概率矩阵 TPM
+
+5.6.状态概率
+
+5.7.稳态概率
+
+5.8平均产量 R
+
+5.9稳态可用性
+
+5.10平均完工时间
+
+6.CK方程
+
+7.连续时间马尔可夫链
+
+7.1定义
+
+7.2.马尔可夫性质
+
+7.3.状态i的逗留时间Ti
+
+7.4.转移概率
+
+7.5.转移概率矩阵 TPM
+
+7.5.1 过渡率矩阵TRM
+
+7.6.状态概率
+
+7.7.稳态概率
+
+7.8平均产量 R
+
+7.9稳态可用性
+
+7.10平均完工时间
+
+8.CK方程
+
+9.柯尔莫哥洛夫微分方程
+
+10.生灭过程
+
+### 排队模型
+
+1.排队
+
+2.利特尔定律
+
+3.M/M/1排队模型
+
+4.M/M/1/N 排队模型
+
+5.M/M/m 排队模型
+
+6.批量到达队列(Mb/M/1)
+
+7.利用率 ρ
+
+8.空的概率 π0
+
+9.k个顾客的概率 πk
+
+10.系统中的平均顾客数 L
+
+11.排队的平均顾客数 Q
+
+12.顾客在系统的平均时间 W
+
+13.排队的平均等待时间 D
+
+### 决策分析
+
+1 确定性下的决策
+
+1.1层次分析法
+
+2 风险下的决策
+
+2.1期望收益 
+
+2.2决策树分析
+
+2.3效用理论
+
+2.4冯·诺伊曼-摩根斯坦方法
+
+2.5将风险纳入决策树分析
+
+2.6信息的价值
+
+3 不确定性下的决策
+
+3.1. 悲观标准（Maximin标准）
+
+3.2. 乐观准则（Maximax）
+
+3.3. 赫维奇准则（Copt）
+
+3.4. 后悔标准（萨维奇标准）
+
+3.5. 拉普拉斯的标准
+
+# 6.List of GitHub
+
+`````
+
+`````
+
+
+# 7.Disclaimer
+
+All content in this  is based solely on the contributors' personal work, Internet data.
+All tips are for reference only and are not guaranteed to be 100% correct.
+If you have any questions, please submit an Issue or PR.
+In addition, if it infringes your copyright, please contact us to delete it, thank you.
+
+
+
+#### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
